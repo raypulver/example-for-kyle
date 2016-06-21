@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/raypulver/example-for-kyle
 cd example-for-kyle
-javac *,java
+javac *.java
 ```
 
 ## output
